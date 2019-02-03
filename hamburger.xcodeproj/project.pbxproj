@@ -13,6 +13,7 @@
 		A81BC5EE218622A500478AB1 /* hamburger.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A81BC5EC218622A500478AB1 /* hamburger.xcdatamodeld */; };
 		A81BC5F0218622A500478AB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A81BC5EF218622A500478AB1 /* Assets.xcassets */; };
 		A81BC5F3218622A500478AB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A81BC5F1218622A500478AB1 /* LaunchScreen.storyboard */; };
+		A81BC5FB218624CD00478AB1 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A81BC5FA218624CD00478AB1 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A81BC5EF218622A500478AB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A81BC5F2218622A500478AB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A81BC5F4218622A500478AB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A81BC5FA218624CD00478AB1 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A81BC5E5218622A500478AB1 /* AppDelegate.swift */,
 				A81BC5E7218622A500478AB1 /* ViewController.swift */,
 				A81BC5E9218622A500478AB1 /* Main.storyboard */,
+				A81BC5FA218624CD00478AB1 /* CollectionViewCell.swift */,
 				A81BC5EF218622A500478AB1 /* Assets.xcassets */,
 				A81BC5F1218622A500478AB1 /* LaunchScreen.storyboard */,
 				A81BC5F4218622A500478AB1 /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				A81BC5EE218622A500478AB1 /* hamburger.xcdatamodeld in Sources */,
 				A81BC5E8218622A500478AB1 /* ViewController.swift in Sources */,
+				A81BC5FB218624CD00478AB1 /* CollectionViewCell.swift in Sources */,
 				A81BC5E6218622A500478AB1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
